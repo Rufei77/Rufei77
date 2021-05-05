@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Rufei77
-- 👀 I’m interested in communication science, topics about health care & (persuasive) communication;
-- 🌱 and also am learning about programming (still not a qualified programmer yet :p) 
 - 📫 You can reach me through melodyliurf@gmail.com 
 
 <!---
