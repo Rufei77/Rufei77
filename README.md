@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rufei77
-- 📫 You can reach me through melodyliurf@gmail.com 
+- 📫 You can reach me through rufei.liu@thoughtworks.com
 
 <!---
 Rufei77/Rufei77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
